@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Castle","order":1,"parentId":0,"scrollX":1622,"scrollY":923},
+{"id":2,"expanded":true,"name":"Castle 3F","order":3,"parentId":0,"scrollX":1152,"scrollY":816},
+{"id":3,"expanded":false,"name":"Castle 3F","order":4,"parentId":2,"scrollX":1638,"scrollY":923},
+{"id":4,"expanded":false,"name":"World 1","order":2,"parentId":1,"scrollX":5888,"scrollY":2882}
+]

@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"kjell1","characterIndex":0,"characterName":"kjell1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"kjell1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kjell","nickname":"'King' Spyron","note":"","profile":"Hij denkt dat hij een koning is... Maar volgens mij is Carin dat al. Ach ja."},
+{"id":2,"battlerName":"sam1","characterIndex":0,"characterName":"sam1","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"sam1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sam","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"mijke1","characterIndex":0,"characterName":"mijke1","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"mijke1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mijke","nickname":"","note":"","profile":""}
+]
